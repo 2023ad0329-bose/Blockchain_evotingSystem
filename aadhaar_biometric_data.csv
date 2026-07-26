@@ -1,0 +1,51 @@
+person_id,name,date_of_birth,gender,aadhaar_number,face_image,fingerprint_image
+P001,Ikshita Loke,12 01 1992,Male,8.58E+11,faces/P001.jpg,fingerprints/P001.png
+P002,Samuel Memon,28 04 2001,Other,4.00E+11,faces/P002.jpg,fingerprints/P002.png
+P003,Lopa Badami,15 10 2004,Other,9.61E+11,faces/P003.jpg,fingerprints/P003.png
+P004,Arjun Soman,08 05 1977,Other,32427508791,faces/P004.jpg,fingerprints/P004.png
+P005,Quincy Venkataraman,09 07 1971,Female,13769930598,faces/P005.jpg,fingerprints/P005.png
+P006,Dominic Suresh,16 05 1969,Female,5.87E+11,faces/P006.jpg,fingerprints/P006.png
+P007,Farhan Sem,12 01 1973,Other,3.81E+11,faces/P007.jpg,fingerprints/P007.png
+P008,Aashi Sha,06 07 1981,Other,9.77E+11,faces/P008.jpg,fingerprints/P008.png
+P009,Bhanumati Padmanabhan,05 08 1979,Female,2.44E+11,faces/P009.jpg,fingerprints/P009.png
+P010,Gaurika Kannan,07 02 1994,Male,4.60E+11,faces/P010.jpg,fingerprints/P010.png
+P011,Madhav Malhotra,28 03 1987,Male,2.76E+11,faces/P011.jpg,fingerprints/P011.png
+P012,Omaja Walla,13 08 1993,Male,6.73E+11,faces/P012.jpg,fingerprints/P012.png
+P013,Amrita Bahl,27 06 1970,Female,7.96E+11,faces/P013.jpg,fingerprints/P013.png
+P014,Janaki Handa,07 10 2002,Female,8.58E+11,faces/P014.jpg,fingerprints/P014.png
+P015,Yashawini Bhandari,11 08 1984,Other,3.87E+11,faces/P015.jpg,fingerprints/P015.png
+P016,Dhruv Sachdev,07 06 1978,Other,1.71E+11,faces/P016.jpg,fingerprints/P016.png
+P017,Maanas Peri,08 11 1990,Other,8.78E+11,faces/P017.jpg,fingerprints/P017.png
+P018,Om Bumb,22 05 1989,Male,8.86E+11,faces/P018.jpg,fingerprints/P018.png
+P019,Bhanumati Sengupta,30 05 1998,Male,3.95E+11,faces/P019.jpg,fingerprints/P019.png
+P020,Urvashi Gokhale,25 12 1979,Other,9.64E+11,faces/P020.jpg,fingerprints/P020.png
+P021,Samaksh Varghese,20 06 1985,Male,7.63E+11,faces/P021.jpg,fingerprints/P021.png
+P022,Luke Char,25 12 1983,Female,8.99E+11,faces/P022.jpg,fingerprints/P022.png
+P023,Vanya Mannan,07 10 2005,Male,1.73E+11,faces/P023.jpg,fingerprints/P023.png
+P024,Daksha Tandon,12 06 1973,Male,2.55E+11,faces/P024.jpg,fingerprints/P024.png
+P025,Yuvraj Lall,27 10 1992,Female,6.81E+11,faces/P025.jpg,fingerprints/P025.png
+P026,Sara D’Alia,24 04 1977,Female,3.72E+11,faces/P026.jpg,fingerprints/P026.png
+P027,Indali Nori,26 10 1976,Other,6.64E+11,faces/P027.jpg,fingerprints/P027.png
+P028,Neha Dewan,25 08 2005,Other,2.84E+11,faces/P028.jpg,fingerprints/P028.png
+P029,Lucky Thakkar,09 03 1968,Other,8.72E+11,faces/P029.jpg,fingerprints/P029.png
+P030,Tanvi Nagy,10 04 1975,Male,13776459422,faces/P030.jpg,fingerprints/P030.png
+P031,Eiravati Tata,09 05 1995,Other,3.29E+11,faces/P031.jpg,fingerprints/P031.png
+P032,Qarin Palla,29 02 1980,Other,9.89E+11,faces/P032.jpg,fingerprints/P032.png
+P033,Tanmayi Dara,19 07 1989,Other,8.66E+11,faces/P033.jpg,fingerprints/P033.png
+P034,Yamini Sarkar,03 06 1974,Other,4.51E+11,faces/P034.jpg,fingerprints/P034.png
+P035,Bhanumati Suri,28 11 1979,Male,2.63E+11,faces/P035.jpg,fingerprints/P035.png
+P036,Ati Sheth,21 02 2007,Female,7.45E+11,faces/P036.jpg,fingerprints/P036.png
+P037,Yahvi Garde,30 09 2005,Female,74483453812,faces/P037.jpg,fingerprints/P037.png
+P038,Yahvi Kota,11 03 1970,Other,9.79E+11,faces/P038.jpg,fingerprints/P038.png
+P039,Gunbir Jain,19 07 2002,Female,7.12E+11,faces/P039.jpg,fingerprints/P039.png
+P040,Girindra Sibal,19 07 1996,Female,4.69E+11,faces/P040.jpg,fingerprints/P040.png
+P041,Wahab Bose,17 11 1999,Other,2.30E+11,faces/P041.jpg,fingerprints/P041.png
+P042,Yochana Sani,16 07 1997,Female,1.47E+11,faces/P042.jpg,fingerprints/P042.png
+P043,Ethan Konda,23 12 1972,Female,6.34E+11,faces/P043.jpg,fingerprints/P043.png
+P044,Harini Edwin,31 03 1996,Female,5.42E+11,faces/P044.jpg,fingerprints/P044.png
+P045,Sachi Dayal,22 05 1995,Female,1.73E+11,faces/P045.jpg,fingerprints/P045.png
+P046,E.Vandana,08 10 2005,Female,3.21E+11,faces/P051.jpg,fingerprints/P051.png
+P047,Nakshathra,23 12 2006,Female,9.09E+11,faces/P053.jpg,fingerprints/P053.png
+P048,Prakash,14 06 2005,Male,6.79E+11,faces/P054.jpg,fingerprints/P054.png
+P049,Bose,15 08 2001,Male,7.86E+12,faces/P055.jpg,fingerprints/P055.png
+P050,S.Bose,09 02 2004,Male,3.43E+11,faces/P052.jpg,fingerprints/P052.png
